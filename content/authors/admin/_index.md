@@ -10,7 +10,7 @@ first_name: Zizhuang
 last_name: Deng
 
 # Status emoji
-status: looking for jobs
+status:
   icon: 👨‍💻
 
 # Is this the primary user of the site?
