@@ -74,5 +74,8 @@ social:
 highlight_name: true
 ---
 
-Zizhuang Deng is a PhD candidate at the Institute of Information Engineering, Chinese Academy of Sciences. His research interests include deep learning apps and system security, fuzzing and reversing. His research has been published at top-tier security conferences such as ACM CCS 2022 and USENIX Security 2020/2023.
+Zizhuang Deng is a PhD candidate at the Institute of Information Engineering, Chinese Academy of Sciences. He is supervised by Prof. [Kai Chen](https://kaichen.org/) and Prof. [Guozhu Meng](https://impillar.github.io/). His research interests include deep learning apps and system security, fuzzing and reversing. His research has been published at top-tier security conferences such as ACM CCS 2022 and USENIX Security 2020/2023.
+
+**News! I am currently in the job market and will graduate in June 2024.**
+
 {style="text-align: justify;"}
