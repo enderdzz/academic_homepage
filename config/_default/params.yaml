@@ -19,9 +19,9 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: "Zizhuang's academic homepage."
-    twitter: 'wowchemy'
+    twitter: '@sunsetdzz'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-WZDBE35F6Z'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''  
