@@ -6,7 +6,7 @@ title: 'Understanding real-world threats to deep learning models in Android apps
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Kai Chen, Guozhu Meng, Xiaodong Zhang, Ke Xu and Yao Cheng
+  - Kai Chen, Guozhu Meng, Xiaodong Zhang, Ke Xu, and Yao Cheng
 
 # Author notes (optional)
 
@@ -68,12 +68,12 @@ url_project: 'https://sites.google.com/view/advdroid-pro/home'
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+{{% /callout %}} -->
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/). -->

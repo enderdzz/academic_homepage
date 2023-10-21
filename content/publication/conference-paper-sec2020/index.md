@@ -32,7 +32,7 @@ abstract: Recently, directed grey-box fuzzing (DGF) becomes popular in the field
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: []
+tags: [Directed grey-box fuzzing, Deep learning, Reachability prediction]
 
 # Display this page in the Featured widget?
 featured: false
@@ -68,7 +68,7 @@ url_code: 'https://github.com/zongpy/FuzzGuard'
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -76,4 +76,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/). -->
