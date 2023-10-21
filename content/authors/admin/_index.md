@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 邓子壮
+title: Zizhuang Deng
 
 # Name pronunciation (optional)
-name_pronunciation: Zizhuang Deng
+#name_pronunciation: Zizhuang Deng
 
 # Full name (for SEO)
 first_name: Zizhuang
