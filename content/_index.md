@@ -231,7 +231,7 @@ sections:
       text: |-
         If you have any questions or would like to exchange ideas, please feel free to contact me. Thank you :)
       # Contact (add or remove contact options as necessary)
-      email: dengzizhuang(at)iie[dot]ac[dot]cn
+      email: dengzz(at)sdu[dot]edu[dot]cn
       # address:
       #   street: 450 Serra Mall
       #   city: Stanford

@@ -17,21 +17,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate of Cyberspace Security
+role: Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: SKLOIS, Institute of Information Engineering, Chinese Academy of Sciences
-    url: http://www.iie.ac.cn/
+  - name: School of Cyber Science and Technology, Shandong University
+    url: https://cst.qd.sdu.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep learning apps and system security, fuzzing and reversing.
+bio: My research interests include deep learning system and software security, fuzzing and reversing.
 
 # Interests to show in About widget
 interests:
   - Reverse Engineering
   - Program Analysis
-  - Deep Learning System
+  - Deep learning System and Security
 
 # Education to show in About widget
 education:
@@ -53,7 +53,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/sunsetdzz
+    link: https://x.com/sunsetdzz
     label: Follow me on Twitter
     display:
       header: true
@@ -74,8 +74,8 @@ social:
 highlight_name: true
 ---
 
-Zizhuang Deng is a PhD candidate at the Institute of Information Engineering, Chinese Academy of Sciences. He is supervised by Prof. [Kai Chen](https://kaichen.org/) and Prof. [Guozhu Meng](https://impillar.github.io/). His research interests include deep learning apps and system security, fuzzing and reversing. His research has been published at top-tier security conferences such as ACM CCS 2022 and USENIX Security 2020/2023.
+Zizhuang Deng, a Research Associate in the School of Cyber Science and Technology, Shandong University. He has got his PhD at the Institute of Information Engineering, Chinese Academy of Sciences. He was supervised by Prof. [Kai Chen](https://kaichen.org/) and Prof. [Guozhu Meng](https://impillar.github.io/). His research interests include deep learning system and software security, fuzzing and reversing. His research has been published at top-tier security conferences such as ACM CCS 22/24 and USENIX Security 23/20.
 
-**News! I am currently in the job market and will graduate in June 2024.**
+**News! I am currently looking for self-driven students who are passionate about security research, let's do some cool stuff!**
 
 {style="text-align: justify;"}
